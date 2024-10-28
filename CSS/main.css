@@ -1,0 +1,24 @@
+.background 
+{
+    width: 600px; 
+    height: 300px; 
+    display: block; 
+    margin-right: auto; 
+    margin-left: auto
+}
+.profile
+{
+    width: 500px; 
+    display: block; 
+    margin-right: auto; 
+    margin-left: auto;
+}
+.Head
+{
+    font-size: 20px; 
+    text-align: center;
+}
+.paragraph1
+{
+    text-align: center;
+}
